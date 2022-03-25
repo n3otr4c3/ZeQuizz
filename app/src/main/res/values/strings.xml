@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ze Quizz !</string>
+    <string name="welcome_what_s_your_name">Bienvenue !</string>
+    <string name="please_type_your_name">Veuillez entrer votre prénom</string>
+    <string name="let_s_go">C\'est parti !</string>
+</resources>
+
